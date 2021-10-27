@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  width: 100%;
+  height: 400px;
+  background-image: url(img2/mv.jpg);
+  background-position: bottom;
+  background-size: cover;
+}
+
+.main-visual-heading {
+  padding : 20px 0 0 20px;
+  color: gray;
+}
+
+main {
+  width: 840px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+.main-item {
+  border-bottom: 1px solid gray;
+  color: gray;
+  padding-bottom: 30px;
+}
+
+.main-logo2,.main-logo3,.main-logo4{
+  padding-top: 30px;
+}
